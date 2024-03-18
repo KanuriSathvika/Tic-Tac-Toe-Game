@@ -1,3 +1,12 @@
+# Tic Tac Toe Game using Reactjs
+
+ ## Live Site: [Link](https://kanurisathvika.github.io/Tic-Tac-Toe-Game/)
+
+ ### Output:
+ ![image](https://github.com/KanuriSathvika/Tic-Tac-Toe-Game/assets/117982917/d15f3b3f-8ede-46d7-bc05-587ca2afe9ee)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
